@@ -1,0 +1,20 @@
+﻿.zoom:hover {
+  transform: scale(0.8); 
+}
+
+.grad{
+    background: linear-gradient(to bottom left, #99ccff 0%, #ccffff 100%);
+}
+
+.zoom1:hover {
+  transform: scale(1.1); 
+}
+
+.center
+{	font-size:20px;
+	 padding-left: 100px;
+}
+
+.a {
+    background: linear-gradient(to bottom, #ffffcc 0%, #ccffff 100%);
+}
